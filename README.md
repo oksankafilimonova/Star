@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# Sister Maddelena
+Across the valley of the Oreto from Monreale, on the slopes of the mountains just above the little village of Parco, lies the old convent of Sta. Catarina. From the cloister terrace at Monreale you can see its pale walls and the slim campanile of its chapel rising from the crowded citron and mulberry orchards that flourish, rank and wild, no longer cared for by pious and loving hands. From the rough road that climbs the mountains to Assunto, the convent is invisible, a gnarled and ragged olive grove intervening, and a spur of cliffs as well, while from Palermo one sees only the speck of white, flashing in the sun, indistinguishable from the many similar gleams of desert monastery or pauper village.
 
-You can use the [editor on GitHub](https://github.com/oksankafilimonova/Star/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Partly because of this seclusion, partly by reason of its extreme beauty, partly, it may be,[84] because the present owners are more than charming and gracious in their pressing hospitality, Sta. Catarina seems to preserve an element of the poetic, almost magical; and as I drove with the Cavaliere Valguanera one evening in March out of Palermo, along the garden valley of the Oreto, then up the mountain side where the warm light of the spring sunset swept across from Monreale, lying golden and mellow on the luxuriant growth of figs, and olives, and orange-trees, and fantastic cacti, and so up to where the path of the convent swung off to the right round a dizzy point of cliff that reached out gaunt and gray from the olives below,—as I drove thus in the balmy air, and saw of a sudden a vision of creamy walls and orange roofs, draped in fantastic festoons of roses, with a single curving palm-tree stuck black and feathery against the gold sunset, it is hardly to be wondered at that I should slip into a mood of visionary enjoyment, looking for a time on the whole thing as the misty phantasm of a summer dream.
+![o](https://therightsofnature.org/wp-content/uploads/2018/01/turkey-3048299_1920.jpg)
+The Cavaliere had introduced himself to us,—Tom Rendel and me,—one morning soon after we reached Palermo, when, in the[85] first bewilderment of architects in this paradise of art and color, we were working nobly at our sketches in that dream of delight, the Capella Palatina. He was himself an amateur archæologist, he told us, and passionately devoted to his island; so he felt impelled to speak to any one whom he saw appreciating the almost—and in a way fortunately—unknown beauties of Palermo. In a little time we were fully acquainted, and talking like the oldest friends. Of course he knew acquaintances of Rendel's,—some one always does: this time they were officers on the tubby U. S. S. "Quinebaug," that, during the summer of 1888, was trying to uphold the maritime honor of the United States in European waters. Luckily for us, one of the officers was a kind of cousin of Rendel's, and came from Baltimore as well, so, as he had visited at the Cavaliere's place, we were soon invited to do the same. It was in this way that, with the luck that attends Rendel wherever he goes, we came to see something of domestic life in Italy, and that I found myself involved in another of those adventures for which I naturally sought so little.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I wonder if there is any other place in Sicily[86] so faultless as Sta. Catarina? Taormina is a paradise, an epitome of all that is beautiful in Italy,—Venice excepted. Girgenti is a solemn epic, with its golden temples between the sea and hills. Cefalù is wild and strange, and Monreale a vision out of a fairy tale; but Sta. Catarina!—
 
-### Markdown
+Fancy a convent of creamy stone and rose-red brick perched on a ledge of rock midway between earth and heaven, the cliff falling almost sheer to the valley two hundred feet and more, the mountain rising behind straight towards the sky; all the rocks covered with cactus and dwarf fig-trees, the convent draped in smothering roses, and in front a terrace with a fountain in the midst; and then—nothing—between you and the sapphire sea, six miles away. Below stretches the Eden valley, the Concha d'Oro, gold-green fig orchards alternating with smoke-blue olives, the mountains rising on either hand and sinking undulously away towards the bay where, like a magic city of ivory and nacre, Palermo lies guarded by the twin mountains, Monte Pellegrino and Capo Zafferano, arid rocks like dull amethysts, rose in sunlight, violet in shadow: lions couchant, guarding the sleeping town.[87]
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Seen as we saw it for the first time that hot evening in March, with the golden lambent light pouring down through the valley, making it in verity a "shell of gold," sitting in Indian chairs on the terrace, with the perfume of roses and jasmines all around us, the valley of the Oreto, Palermo, Sta. Catarina, Monreale,—all were but parts of a dreamy vision, like the heavenly city of Sir Percivale, to attain which he passed across the golden bridge that burned after him as he vanished in the intolerable light of the Beatific Vision.
 
-```markdown
-Syntax highlighted code block
+It was all so unreal, so phantasmal, that I was not surprised in the least when, late in the evening after the ladies had gone to their rooms, and the Cavaliere, Tom, and I were stretched out in chairs on the terrace, smoking lazily under the multitudinous stars, the Cavaliere said, "There is something I really must tell you both before you go to bed, so that you may be spared any unnecessary alarm."
 
-# Header 1
-## Header 2
-### Header 3
+"You are going to say that the place is haunted," said Rendel, feeling vaguely on the floor beside him for his glass of Amaro: "thank you; it is all it needs."
 
-- Bulleted
-- List
+The Cavaliere smiled a little: "Yes, that is[88] just it. Sta. Catarina is really haunted; and much as my reason revolts against the idea as superstitious and savoring of priestcraft, yet I must acknowledge I see no way of avoiding the admission. I do not presume to offer any explanations, I only state the fact; and the fact is that to-night one or other of you will, in all human—or unhuman—probability, receive a visit from Sister Maddelena. You need not be in the least afraid, the apparition is perfectly gentle and harmless; and, moreover, having seen it once, you will never see it again. No one sees the ghost, or whatever it is, but once, and that usually the first night he spends in the house. I myself saw the thing eight—nine years ago, when I first bought the place from the Marchese di Muxaro; all my people have seen it, nearly all my guests, so I think you may as well be prepared."
 
-1. Numbered
-2. List
+"Then tell us what to expect," I said; "what kind of a ghost is this nocturnal visitor?"
 
-**Bold** and _Italic_ and `Code` text
+"It is simple enough. Some time to-night you will suddenly awake and see before you a Carmelite nun who will look fixedly at you, say distinctly and very sadly, 'I cannot sleep,' and then vanish. That is all, it is hardly worth[89] speaking of, only some people are terribly frightened if they are visited unwarned by strange apparitions; so I tell you this that you may be prepared."
 
-[Link](url) and ![Image](src)
-```
+"This was a Carmelite convent, then?" I said.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+"Yes; it was suppressed after the unification of Italy, and given to the House of Muxaro; but the family died out, and I bought it. There is a story about the ghostly nun, who was only a novice, and even that unwillingly, which gives an interest to an otherwise very commonplace and uninteresting ghost."
 
-### Jekyll Themes
+"I beg that you will tell it us," cried Rendel.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/oksankafilimonova/Star/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+"There is a storm coming," I added. "See, the lightning is flashing already up among the mountains at the head of the valley; if the story is tragic, as it must be, now is just the time for it. You will tell it, will you not?"
 
-### Support or Contact
+The Cavaliere smiled that slow, cryptic smile of his that was so unfathomable.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+"As you say, there is a shower coming, and as we have fierce tempests here, we might not sleep; so perhaps we may as well sit up a little longer, and I will tell you the story."
+
+The air was utterly still, hot and oppressive;[90] the rich, sick odor of the oranges just bursting into bloom came up from the valley in a gently rising tide. The sky, thick with stars, seemed mirrored in the rich foliage below, so numerous were the glow-worms under the still trees, and the fireflies that gleamed in the hot air. Lightning flashed fitfully from the darkening west; but as yet no thunder broke the heavy silence.
+
+The Cavaliere lighted another cigar, and pulled a cushion under his head so that he could look down to the distant lights of the city. "This is the story," he said.
+
+"Once upon a time, late in the last century, the Duca di Castiglione was attached to the court of Charles III., King of the Two Sicilies, down at Palermo. They tell me he was very ambitious, and, not content with marrying his son to one of the ladies of the House of Tuscany, had betrothed his only daughter, Rosalia, to Prince Antonio, a cousin of the king. His whole life was wrapped up in the fame of his family, and he quite forgot all domestic affection in his madness for dynastic glory. His son was a worthy scion, cold and proud; but Rosalia was, according to legend, utterly the reverse,—a passionate, beautiful[91] girl, wilful and headstrong, and careless of her family and the world.
+
+"The time had nearly come for her to marry Prince Antonio, a typical roué of the Spanish court, when, through the treachery of a servant, the Duke discovered that his daughter was in love with a young military officer whose name I don't remember, and that an elopement had been planned to take place the next night. The fury and dismay of the old autocrat passed belief; he saw in a flash the downfall of all his hopes of family aggrandizement through union with the royal house, and, knowing well the spirit of his daughter, despaired of ever bringing her to subjection. Nevertheless, he attacked her unmercifully, and, by bullying and threats, by imprisonment, and even bodily chastisement, he tried to break her spirit and bend her to his indomitable will. Through his power at court he had the lover sent away to the mainland, and for more than a year he held his daughter closely imprisoned in his palace on the Toledo,—that one, you may remember, on the right, just beyond the Via del Collegio dei Gesuiti, with the beautiful iron-work grilles at all the windows, and the painted frieze.[92] But nothing could move her, nothing bend her stubborn will; and at last, furious at the girl he could not govern, Castiglione sent her to this convent, then one of the few houses of barefoot Carmelite nuns in Italy. He stipulated that she should take the name of Maddelena, that he should never hear of her again, and that she should be held an absolute prisoner in this conventual castle.
+
+"Rosalia—or Sister Maddelena, as she was now—believed her lover dead, for her father had given her good proofs of this, and she believed him; nevertheless she refused to marry another, and seized upon the convent life as a blessed relief from the tyranny of her maniacal father.
